@@ -14,9 +14,11 @@ URL-“https://opensource-demo.orangehrmlive.com/”
 ###Requirement Details
 The structure of the system is divided into four main modules. 
 
-##1.Admin Login
+##1.Admin Login :
 In this Module, Admin only has access to login.
-##2.Add New User (Admin / ESS)
+
+
+##2.Add New User (Admin / ESS) : 
 In this Module, Admin should be able to Create New User by entering below details –
 -User Roles
 -Employee Name
@@ -24,12 +26,16 @@ In this Module, Admin should be able to Create New User by entering below detail
 -Status (Enabled / Disabled)
 -Password
 -Conform Password
-##3.Update/Edit Existing User 
+
+
+##3.Update/Edit Existing User :
 In this Module, Admin should be allowed to edit the already Existing user details.
 
-##4.Delete Existing User
+##4.Delete Existing User :
 In this Module, Admin should be allowed to delete the existing user.
-###Used tools and libraries
+
+
+###Used tools and libraries :
 Eclipse, Selenium, TestNG, POI
 
 Finally take screenshot of a failed test case. [example - login failed]
